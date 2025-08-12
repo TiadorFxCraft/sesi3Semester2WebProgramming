@@ -223,58 +223,7 @@ footer {
 		margin-top:  70px;
 		margin-bottom: 90px;
 	}
-	@media screen and (max-width: 450px) {
-		footer {
-			margin-bottom: 140px;
-			padding-bottom: 40px;
-		}
-		body {
-			padding-bottom: 140px;
-		}
-
-		nav {
-			height: 80px;
-		}
-	}
-
-	.card-item {
-		width: 100%;
-		opaity: 0;
-	}
-
-	.container {
-		width: 100%;
-		opacity: 0;
-	}
-
-	.intro {
-		margin-top: 20px;
-	}
-
-	.img-foto {
-		padding: 0;
-	}
-
-	nav {
-		position: fixed;
-		bottom: 0;
-		width: 100%;
-		background: #1A2238;
-		z-index: 9;
-		height: 70px;
-		}
-
-	nav ul {
-		margin: 0;
-		padding: 10px 20px;
-		height: 100%;
-		display: flex;
-		align-items: center;
-	}
-
-	footer {
-		padding-bottom: 120px;
-	}
 	}
 }
+
 
