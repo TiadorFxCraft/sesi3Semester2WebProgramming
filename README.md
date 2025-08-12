@@ -16,5 +16,5 @@ Dibuat dengan HTML + CSS, menampilkan:
     Animasi hover untuk elemen interaktif
     -----------------------------------------------------------------
 # 🌐 TiadorFex WebsiteDev
-[**➡️ Lihat Website**]([https://tiadorfxcraft.github.io/gamvbar-adek/](https://tiadorfxcraft.github.io/sesi3Semester2WebProgramming/)
+[**➡️ Lihat Website**]((https://tiadorfxcraft.github.io/sesi3Semester2WebProgramming/)
 
