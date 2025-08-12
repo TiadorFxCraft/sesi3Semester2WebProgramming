@@ -219,8 +219,9 @@ footer {
 	}
 	
 	footer {
-		margin-bottom: 70px;
+		margin-bottom: 0;
 		margin-top:  70px;
+		margin-bottom: 90px;
 	}
 	@media screen and (max-width: 450px) {
 		footer {
@@ -272,13 +273,8 @@ footer {
 	}
 
 	footer {
-		margin-bottom: 120px;
-		margin-top: 70px;
-		padding-bottom: 30px;
-	}
-
-	body {
 		padding-bottom: 120px;
 	}
 	}
 }
+
