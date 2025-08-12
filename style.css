@@ -216,11 +216,22 @@ footer {
 		width: 100%;
 		background: #1A2238;
 		z-index:  9;
+		height: 70px;
+	}
+
+	nav ul {
+		margin: 0; /* Reset margin default */
+		padding: 10px 20px; /* Sesuaikan padding */
+		height: 100%;
+		display: flex;
+		align-items: center;
 	}
 	
 	footer {
-		margin-bottom: 70px;
+		margin-bottom: 90px;
 		margin-top:  70px;
+		padding-bottom: 20px;
 	}
 
 }
+
