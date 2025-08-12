@@ -1,4 +1,126 @@
-*,  html, body {
+@media screen and (max-width: 450px) {
+	footer {
+		margin-bottom: 140px; /* Margin lebih besar lagi untuk layar sangat kecil */
+		padding-bottom: 40px;
+	}
+	
+	body {
+		padding-bottom: 140px;
+	}
+	
+	nav {
+		height: 80px; /* Tinggi navigation sedikit lebih besar */
+	}
+}
+	
+	.card-item {
+		width: 100%;
+		opacity: 0.9;
+	}
+	
+	.container {
+		width: 100%;
+		padding: 0; 
+	}
+	
+	.intro {
+		margin-top: 20px;
+	}
+	
+	.img-foto {
+		padding: 0;
+	}
+	
+	nav {
+		position: fixed;
+		bottom: 0;
+		width: 100%;
+		background: #1A2238;
+		z-index: 9;
+		height: 70px; /* Pastikan tinggi navigation jelas */
+	}
+	
+	nav ul {
+		margin: 0; /* Reset margin default */
+		padding: 10px 20px; /* Sesuaikan padding */
+		height: 100%;
+		display: flex;
+		align-items: center;
+	}
+	
+	footer {
+		margin-bottom: 120px; /* Margin lebih besar untuk layar kecil */
+		margin-top: 70px;
+		padding-bottom: 30px; /* Padding bottom lebih besar */
+	}
+	
+	/* Berikan padding bottom pada body untuk semua konten */
+	body {
+		padding-bottom: 120px;
+	}
+}
+}@media screen and (max-width: 450px) {
+	footer {
+		margin-bottom: 140px; /* Margin lebih besar lagi untuk layar sangat kecil */
+		padding-bottom: 40px;
+	}
+	
+	body {
+		padding-bottom: 140px;
+	}
+	
+	nav {
+		height: 80px; /* Tinggi navigation sedikit lebih besar */
+	}
+}
+	
+	.card-item {
+		width: 100%;
+		opacity: 0.9;
+	}
+	
+	.container {
+		width: 100%;
+		padding: 0; 
+	}
+	
+	.intro {
+		margin-top: 20px;
+	}
+	
+	.img-foto {
+		padding: 0;
+	}
+	
+	nav {
+		position: fixed;
+		bottom: 0;
+		width: 100%;
+		background: #1A2238;
+		z-index: 9;
+		height: 70px; /* Pastikan tinggi navigation jelas */
+	}
+	
+	nav ul {
+		margin: 0; /* Reset margin default */
+		padding: 10px 20px; /* Sesuaikan padding */
+		height: 100%;
+		display: flex;
+		align-items: center;
+	}
+	
+	footer {
+		margin-bottom: 120px; /* Margin lebih besar untuk layar kecil */
+		margin-top: 70px;
+		padding-bottom: 30px; /* Padding bottom lebih besar */
+	}
+	
+	/* Berikan padding bottom pada body untuk semua konten */
+	body {
+		padding-bottom: 120px;
+	}
+}
+}*,  html, body {
 	margin:  0;
 	padding: 0;
 	box-sizing:  border-box;
@@ -233,5 +355,8 @@ footer {
 		padding-bottom: 20px;
 	}
 
+	@media screen and
+
 }
+
 
